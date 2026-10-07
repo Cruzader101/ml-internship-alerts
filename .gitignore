@@ -1,0 +1,6 @@
+config.json
+local_seen_ids.json
+local_etag.txt
+alert.log*
+*.tmp
+__pycache__/
